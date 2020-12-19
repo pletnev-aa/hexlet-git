@@ -1,1 +1,0 @@
-Guido van Rossum
